@@ -1,6 +1,7 @@
 Non Title / This is a TRIAL program as a technology demonstration.
 
 MSX(1) 用、スクロール表現のDemoです。
+
 カーソルキー＋スペースキー か ポート１のジョイスティック等で操作可能ですがゲームではありません。
 
 RAMは64Kバイト必要です。MSX-DOS環境用にプログラムしました。
