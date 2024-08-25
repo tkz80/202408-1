@@ -21,6 +21,7 @@ https://x.com/TKZ80/status/1827024326278905895
 
 --------------------------------------------------------------------------------
 V34　鑑賞モードを追加しました。CAPSオンにすると地形との判定を無視します。
+
 https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV34ese.dsk
 
 2024/08/25　
