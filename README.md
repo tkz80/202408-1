@@ -15,9 +15,17 @@ MSX-DOS1 / 似非DOS for MSX 0.20 で簡易に動作確認をしています。
 
 予告なく改定、削除することがあります。
 
-
 https://x.com/TKZ80/status/1827024326278905895
 
 2024/08/24
+
+--------------------------------------------------------------------------------
+V34　鑑賞モードを追加しました。CAPSオンにすると地形との判定を無視します。
+
+https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV34ese.dsk
+
+2024/08/25　
+
+
 
 TKZ80
