@@ -36,5 +36,16 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/ma
 2024/09/01　
 
 
+--------------------------------------------------------------------------------
+V38　
+・起動→DATA読込完了に CREDIT音を追加
+・BOSSシーンの背景色を微調整
+・ZONE IS OVER の表示追加
+
+https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV38ese.dsk
+
+2024/09/07　
+
+
 
 TKZ80
