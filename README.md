@@ -28,4 +28,13 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/ma
 
 
 
+--------------------------------------------------------------------------------
+V37　お試しで BOSSの絵を若干追加しました。
+
+https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV37ese.dsk
+
+2024/09/01　
+
+
+
 TKZ80
