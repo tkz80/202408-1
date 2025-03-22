@@ -63,13 +63,23 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/ma
 
 
 --------------------------------------------------------------------------------
-V39　
+V40　
 ・ROUND_CLEAR の BGM追加　
 
 
 https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV40ese.dsk
 
 2024/09/23　
+
+
+--------------------------------------------------------------------------------
+V41　
+・BOSS2 の BGM追加　
+
+
+https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV41ese.dsk
+
+2024/10/06　
 
 
 TKZ80
