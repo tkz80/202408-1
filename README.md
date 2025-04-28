@@ -82,4 +82,13 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/ma
 2024/10/06　
 
 
+--------------------------------------------------------------------------------
+V41　
+・CAPTAIN NEO、BOSS CLEAR の ＢＧＭデータを更新　
+
+
+https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/main/NoTITLE/TRIAL/DSK/DRV42ese.dsk
+
+2025/04/28　
+
 TKZ80
