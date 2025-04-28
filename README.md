@@ -83,7 +83,7 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA=https://github.com/tkz80/202408-1/raw/ma
 
 
 --------------------------------------------------------------------------------
-V41　
+V42　
 ・CAPTAIN NEO、BOSS CLEAR の ＢＧＭデータを更新　
 
 
